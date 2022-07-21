@@ -3,4 +3,6 @@
 
 ### Foi utilizado Html, CSS e JavaScript
 
-<img src="projeto-glass-html5\_imagens\video-site-google-glass.gif" width="40" height="40" />
+ <p align="center">
+    <img windth="470" src="projeto-glass-html5\_imagens\video-site-google-glass.gif">
+</p>
